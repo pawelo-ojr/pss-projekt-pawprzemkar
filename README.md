@@ -12,8 +12,8 @@ własne REST API, które zespół projektuje, testuje i prezentuje.
 
 ## Pomysły na temat projektu (wybór w LAB 08)
 
-
-Monitorowanie pracy samochodu
+- opaska sportowa
+- Monitorowanie pracy samochodu
 
 ## Jak pracujemy
 
