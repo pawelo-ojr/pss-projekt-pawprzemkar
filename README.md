@@ -7,8 +7,8 @@ własne REST API, które zespół projektuje, testuje i prezentuje.
 | Rola | Login GitHub | Karta |
 |---|---|---|
 | A — opiekun repozytorium | LOGIN_A | [zespol/pawelo-ojr.md](zespol/pawelo-ojr.md) |
-| B | LOGIN_B | [zespol/LOGIN_B.md](zespol/LOGIN_B.md) |
-| C | LOGIN_C | [zespol/LOGIN_C.md](zespol/LOGIN_C.md) |
+| B | LOGIN_B | [zespol/przemyslawmc.md](zespol/przemyslawmc.md) |
+| C | LOGIN_C | [zespol/Karol-0-4](zespol/Karol-0-4.md) |
 
 ## Pomysły na temat projektu (wybór w LAB 08)
 
