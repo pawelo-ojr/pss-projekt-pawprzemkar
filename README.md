@@ -12,7 +12,10 @@ własne REST API, które zespół projektuje, testuje i prezentuje.
 
 ## Pomysły na temat projektu (wybór w LAB 08)
 
+
 - system monitorowania wilgotnosci
+- do ustalenia
+- monitorowanie wilgotnosci
 
 ## Jak pracujemy
 
